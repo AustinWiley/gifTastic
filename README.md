@@ -15,7 +15,7 @@
 
 **Notes** I used mostly `<div>` elements in the html of this project.
 #
-### Visit the site here:  [Train Scheduler](https://austinwiley.github.io/gifTastic/)
+### Visit the site here:  [GifTastic](https://austinwiley.github.io/gifTastic/)
 #
 
 

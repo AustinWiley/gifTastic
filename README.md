@@ -14,8 +14,10 @@
 * Include a 1-click download button for each gif, this should work across device types.
 
 **Notes** I used mostly `<div>` elements in the html of this project.
+#
+### Visit the site here:  [Train Scheduler](https://austinwiley.github.io/gifTastic/)
+#
 
-###visit the site: https://austinwiley.github.io/gifTastic/
 
 
 As Mark Twain once said:

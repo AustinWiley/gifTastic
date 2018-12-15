@@ -15,6 +15,8 @@
 
 **Notes** I used mostly `<div>` elements in the html of this project.
 
+###visit the site: https://austinwiley.github.io/gifTastic/
+
 
 As Mark Twain once said:
 

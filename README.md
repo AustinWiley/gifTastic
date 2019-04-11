@@ -9,6 +9,7 @@
 
 
 ## Other features I could add but havn't yet
+
 * I could make a favorites section where you can save your favorite gifs.
 * I could allow the user to increase the search results.
 * Include a 1-click download button for each gif, this should work across device types.
